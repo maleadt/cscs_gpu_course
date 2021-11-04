@@ -1,0 +1,9 @@
+For tomorrow's sessions
+  - register for an NVIDIA developer account at https://developer.nvidia.com/login
+  - download nsight systems 2021.4.1.73 from https://developer.nvidia.com/gameworksdownload#?dn=nsight-systems-2021-4-1-73
+  - install it (does not require admin priviliges, can live in a local folder)
+
+Also make sure you can execute NSight Systems on Piz Daint:
+    export PATH=/scratch/snx3000/class99/nsight-systems-2021.4.1/bin:$PATH
+    ncu --version
+If not, let us know!
