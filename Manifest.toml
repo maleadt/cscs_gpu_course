@@ -47,7 +47,9 @@ uuid = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
 
 [[BenchmarkTools]]
 deps = ["JSON", "Logging", "Printf", "Profile", "Statistics", "UUIDs"]
-git-tree-sha1 = "61adeb0823084487000600ef8b1c00cc2474cd47"
+git-tree-sha1 = "da2e31a77bdaa26a9951214842dabebb5016c08f"
+repo-rev = "104f4c1e210da1933ace369d6db1393cf23ac102"
+repo-url = "https://github.com/JuliaCI/BenchmarkTools.jl.git"
 uuid = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
 version = "1.2.0"
 
